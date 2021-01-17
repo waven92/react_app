@@ -4,15 +4,9 @@
 
 .App-header {
   background-color: #282c34;
-  height: 70px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 22px;
   color: white;
   padding: 20px;
-  cursor: pointer;
 }
 
 .spinner {
@@ -36,7 +30,7 @@
   flex-direction: row;
 }
 
-.App-header h2 {
+.App-header h1 {
   margin: 0;
 }
 

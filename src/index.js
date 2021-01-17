@@ -5,6 +5,7 @@ import App from './components/App'; // this changed
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
+    // Appコンポーネントを呼び出す
     <App />,
   document.getElementById('root')
 );

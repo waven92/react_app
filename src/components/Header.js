@@ -1,9 +1,10 @@
 import React from "react";
 
+// ヘッダーをレンダリングするコンポーネント
 const Header = (props) => {
   return (
     <header className="App-header">
-      <h2>{props.text}</h2>
+      <h1>{props.text}</h1>
     </header>
   );
 };
